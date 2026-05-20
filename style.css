@@ -27,7 +27,7 @@ h3 {
     font-weight: 400;
 }
 
-p, ul {
+p, ul, li {
     margin: 0;
     font-family: SNPro;
     font-weight: 300;
