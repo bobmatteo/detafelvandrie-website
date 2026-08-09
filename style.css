@@ -88,9 +88,13 @@ header {
 }
 
 .item p {
-    padding: 0 16px 16px 16px;
+    padding: 0 16px 0 16px;
     font-size: 0.9em;
     opacity: 0.6;
+}
+
+.item p:last-child {
+    padding-bottom: 16px;
 }
 
 img {
